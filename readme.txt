@@ -1,2 +1,2 @@
-git is a version control system
-this is my first time to use git
+git is a very nice version control system
+this is my second time to use git
